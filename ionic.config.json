@@ -1,0 +1,8 @@
+{
+  "name": "iservice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "939b7104"
+}
